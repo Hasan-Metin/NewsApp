@@ -2,8 +2,9 @@
 
   <h3 align="center">NEWS APP</h3>
 
+<img src="./gifs/GalaxyS10.gif" width="40" height="40" />
 
-![](./gifs/GalaxyS10.gif)
+
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
