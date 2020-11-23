@@ -2,9 +2,10 @@
 
   <h1 align="center">NEWS APP</h1>
 <p align="center" >
-<p><img src="./gifs/GalaxyS10.gif"  height="700"  />Samsung Galaxy S10 (Genymotion Emulator)</p>
-<p><img src="./gifs/Iphone12.gif"  height="700"  />Iphone 12 (XCode Emulator)</p>
+<img src="./gifs/GalaxyS10.gif"  height="700"  />
+<img src="./gifs/Iphone12.gif"  height="700"  />
 </p>
+<hr/>
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
