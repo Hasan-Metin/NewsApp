@@ -4,7 +4,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][www.linkedin.com/in/hasan-metin]
+[![LinkedIn][linkedin-shield]][linkedin-url](www.linkedin.com/in/hasan-metin)
 
 
 
