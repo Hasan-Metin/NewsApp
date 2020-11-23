@@ -78,7 +78,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- CONTACT -->
 ## Contact
 
-Hasan Metin - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Hasan Metin - [<a href="mailto: hasan.metinn@outlook.com">hasan.metinn@outlook.com</a>
 
 Project Link: [https://github.com/Hasan-Metin/NewsApp.git](https://github.com/Hasan-Metin/NewsApp.git)
 
