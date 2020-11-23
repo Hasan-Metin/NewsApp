@@ -37,9 +37,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-This project just for an practice example of React Native
+This project is my very first practice example of React Native.
 
-A prototype of a News Mobile App project. Customer can see recet news from this app.
+It is a prototype of a News Mobile App project. Customer can see flash news from this app.
 
 
 ### Built With
@@ -60,11 +60,11 @@ A prototype of a News Mobile App project. Customer can see recet news from this 
 src
    |- components
    |           |- index.js
-   |           |- ProductCard.js
-   |           |- SearchBar.js
+   |           |- NewsBanner.js
+   |           |- NewsCard.js
    |
-   |- Main.js
-   |- product_data.json
+   |- News.js
+   
 </pre>
 
 <!-- CONTRIBUTING -->
