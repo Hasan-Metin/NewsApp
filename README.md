@@ -1,10 +1,10 @@
 
 
   <h1 align="center">NEWS APP</h1>
-<div style="margin:10px"  >
+<p align="center" >
 <img src="./gifs/GalaxyS10.gif"  height="700"  />
 <img src="./gifs/Iphone12.gif"  height="700"  />
-</div>
+</p>
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
