@@ -46,7 +46,7 @@ A prototype of a News Mobile App project. Customer can see recet news from this 
 
 ### Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/Hasan-Metin/NewsApp.git
    ```
 
 
