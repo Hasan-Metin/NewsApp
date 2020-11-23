@@ -2,7 +2,7 @@
 
   <h3 align="center">NEWS APP</h3>
 
-<img src="./gifs/GalaxyS10.gif"  height="400" />
+<img src="./gifs/GalaxyS10.gif"  height="700" />
 
 
 <!-- TABLE OF CONTENTS -->
