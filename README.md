@@ -65,7 +65,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- CONTACT -->
 ## Contact
 
-Hasan Metin - [<a href="mailto: hasan.metinn@outlook.com">]hasan.metinn@outlook.com</a>
+Hasan Metin - <a href="mailto: hasan.metinn@outlook.com">hasan.metinn@outlook.com</a>
 
 Project Link: [https://github.com/Hasan-Metin/NewsApp.git](https://github.com/Hasan-Metin/NewsApp.git)
 
