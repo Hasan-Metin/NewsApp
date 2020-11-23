@@ -72,6 +72,9 @@ Project Link: [https://github.com/Hasan-Metin/NewsApp.git](https://github.com/Ha
 
 
 <!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+More feature will be added on soon.
+
+If you have any question or suggestion, feel free to [open an issue](https://github.com/ezranbayantemur/restaurantProject/issues/new).
+
+**See y'all !**
 
