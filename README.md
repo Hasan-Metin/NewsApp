@@ -1,7 +1,7 @@
 
 
   <h3 align="center">NEWS APP</h3>
-<div>
+<div style="display:flex; aligh-items: center; justfiy-content: space-between">
 <img src="./gifs/GalaxyS10.gif"  height="700" />
 <img src="./gifs/Iphone12.gif"  height="700" />
 </div>
