@@ -53,7 +53,7 @@ A prototype of a News Mobile App project. Customer can see recet news from this 
 
 <!-- ROADMAP -->
 ## Roadmap
-
+<pre>
 src
    |- components
    |           |- index.js
@@ -62,7 +62,7 @@ src
    |
    |- Main.js
    |- product_data.json
-
+</pre>
 
 <!-- CONTRIBUTING -->
 ## Contributing
