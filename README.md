@@ -1,7 +1,7 @@
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
+[![Stargazers][stars-shield]](https://github.com/Hasan-Metin/NewsApp/Star)
 [![Issues][issues-shield]](https://github.com/Hasan-Metin/NewsApp/issues)
 [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/hasan-metin)
 
