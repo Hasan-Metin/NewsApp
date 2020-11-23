@@ -13,11 +13,12 @@
   <ol>
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#built-with">Built With</a></li>
-    <li><a href="#clone-the-repo">Clone The Repo</a></li>
+    <li><a href="#reviewed-topics">Reviewed Topics</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#clone-the-repo">Clone The Repo</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
+    
   </ol>
 </details>
 
@@ -34,11 +35,14 @@ It is a prototype of a News Mobile App project. Customer can see flash news from
 
 * [React Native](https://reactnative.dev/)
 
+## Reviewed Topics
 
-## Clone The Repo
-   ```sh
-   git clone https://github.com/Hasan-Metin/NewsApp.git
-   ```
+* React Native;
+    - Functional Components,
+    - Custom Components,
+    - FlatList, TouchableOpacity Built-in Components
+    - Basic Styling
+
 
 ## Roadmap
 <pre>
@@ -52,6 +56,12 @@ src
    
 </pre>
 
+
+## Clone The Repo
+   ```sh
+   git clone https://github.com/Hasan-Metin/NewsApp.git
+   ```
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -62,7 +72,7 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<!-- CONTACT -->
+
 ## Contact
 
 Hasan Metin - <a href="mailto: hasan.metinn@outlook.com">hasan.metinn@outlook.com</a>
