@@ -3,7 +3,7 @@
   <h3 align="center">NEWS APP</h3>
 
 
-
+![](./gifs/GalaxyS10.gif)
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
