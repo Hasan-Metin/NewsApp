@@ -33,7 +33,7 @@ It is a prototype of a News Mobile App project. Customer can see flash news from
 
 ## Built With
 
-* [React Native](https://reactnative.dev/)
+* [React Native](https://reactnative.dev/) <img height=60px src="https://img.icons8.com/color/72/react-native.png"> 
 
 ## Reviewed Topics
 
