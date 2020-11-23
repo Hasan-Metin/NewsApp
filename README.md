@@ -34,17 +34,15 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+This project just for an practice example of React Native
 
+A prototype of a News Mobile App project. Customer can see recet news from this app.
 
 
 ### Built With
 
 * [React Native](https://reactnative.dev/)
 
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
 
 ### Clone the repo
    ```sh
@@ -53,19 +51,10 @@ This is an example of how to list things you need to use the software and how to
 
 
 
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
+
 
 
 
