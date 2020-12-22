@@ -44,7 +44,7 @@ It is a prototype of a News Mobile App project. Customer can see flash news from
     - Basic Styling
 
 
-## Roadmap
+## Source Map
 <pre>
 src
    |- components
